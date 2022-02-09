@@ -2,7 +2,6 @@ node_modules/
 lerna-debug.log
 .idea
 .pinning.store
-.vscode
 *.iml
 docs/
 build
@@ -24,3 +23,4 @@ package-lock.json
 
 dht-relay/
 manual-tests/
+config.bat
