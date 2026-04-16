@@ -55,7 +55,9 @@
   "dependencies": {
     "@hyperswarm/dht": "^5.0.12",
     "@hyperswarm/dht-relay": "^0.1.1",
-    "isomorphic-ws": "^4.0.1"
+    "dotenv": "^8.2.0",
+    "isomorphic-ws": "^4.0.1",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "@types/ws": "^8.2.2",
